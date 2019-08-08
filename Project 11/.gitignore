@@ -1,0 +1,10 @@
+/Debug/
+/Release/
+/.settings/
+/.cproject
+/.project
+/.uuid
+/DivideByZero.h~
+/Rational.cpp~
+/Rational.h~
+/RationalTest.cpp~
